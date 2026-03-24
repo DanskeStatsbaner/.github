@@ -43,8 +43,7 @@ Each public repository has its own documentation, but as a rule of thumb you wil
     Instructions for getting started and contributing
     Links to further documentation or related projects
 
-If you want to contribute, please follow the contribution guidelines in the relevant repository. We welcome issues, suggestions and pull requests where it makes sense.
-Stay Connected
+## Stay Connected
 
 If you are curious about DSB, our digital journey or career opportunities in DSB IT, visit our website at dsb.dk and our careers pages.
 
