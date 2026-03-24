@@ -34,7 +34,8 @@ On this GitHub organization you can expect:
     Integration, monitoring and automation components related to running rail services at scale
 
 Most of our business-critical systems live in private repositories, but where we can open up, we do – to share knowledge, get feedback and stand on the shoulders of the wider community.
-Working With Our Repositories
+
+## Working With Our Repositories
 
 Each public repository has its own documentation, but as a rule of thumb you will find:
 
