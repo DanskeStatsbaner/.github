@@ -15,9 +15,9 @@ DSB IT builds and runs the digital backbone of Danish rail transport. Our soluti
 We work on everything from internal tools and workshop systems, to apps for our staff, and the public-facing digital experience like ticketing, self-service and travel information. In the private part of our GitHub organisation you will find parts of that ecosystem in the form of libraries, utilities, examples and configuration that we believe can be useful or interesting outside DSB as well.
 
 ## Our Platforms: MAX and Observability
-
+<img align="right" src="max-transparent-200x200.png">
 To support all these solutions we operate an internal developer platform called MAX. MAX brings together our experience with DevOps, cloud and monitoring into a unified way of:
-
+    
     Building and deploying microservice-based applications on Kubernetes
     Organising services around domains and teams
     Giving developers fast feedback when changes misbehave in non‑production environments
