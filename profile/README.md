@@ -24,25 +24,6 @@ To support all these solutions we operate an internal developer platform called 
 
 Alongside MAX we have a modern observability platform based on Prometheus, the Grafana stack and ClickHouse. This setup gives our teams insight into how services perform in production and helps us detect issues early, understand incidents and continuously improve reliability.
 
-You will occasionally see repositories here that relate to MAX and our observability stack – for example exporters, configuration, workflows or tooling that we are able to share publicly.
-## What You’ll Find Here
-
-On this GitHub organization you can expect:
-
-    Open source and shared tools that we use internally and believe can benefit others
-    Examples and reference implementations from our cloud, DevOps and data platforms
-    Integration, monitoring and automation components related to running rail services at scale
-
-Most of our business-critical systems live in private repositories, but where we can open up, we do – to share knowledge, get feedback and stand on the shoulders of the wider community.
-
-## Working With Our Repositories
-
-Each public repository has its own documentation, but as a rule of thumb you will find:
-
-    A clear description of what the project does and where it fits
-    Instructions for getting started and contributing
-    Links to further documentation or related projects
-
 ## Stay Connected
 
 If you are curious about DSB, our digital journey or career opportunities in DSB IT, visit our website at dsb.dk and our careers pages.
