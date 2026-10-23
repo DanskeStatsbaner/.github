@@ -26,6 +26,6 @@ Alongside MAX we have a modern observability platform based on Prometheus, the G
 
 ## Stay Connected
 
-If you are curious about DSB, our digital journey or career opportunities in DSB IT, visit our website at dsb.dk and our careers pages.
+If you are curious about DSB, our digital journey or career opportunities in DSB IT, visit [dsb.dk](https://www.dsb.dk) and our [careers pages](https://www.dsb.dk/om-dsb/job-og-karriere/).
 
 Thanks for stopping by – and thanks for taking an interest in the technology behind the trains.
