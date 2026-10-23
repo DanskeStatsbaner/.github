@@ -1,6 +1,6 @@
 # Welcome to DSB on GitHub
 
-Welcome to DSB’s GitHub presence – where we share a selection of the tools, building blocks and examples that help keep Denmark moving by rail.
+Welcome to DSB’s GitHub presence.
 
 DSB is the Danish national railway company. Every day we help thousands of passengers get to work, school, family and leisure activities safely and on time. Behind the trains you see on the tracks is a large digital ecosystem that plans, operates and continuously improves the railway.
 
